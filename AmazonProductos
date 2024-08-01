@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Amazon Recomendado</title>
+</head>
+<body>
+    <header>
+        <h1>Encontraras los productos con mejores reseñas de amazon con un link directo y seguro hacia la web del articulo</h1>
+    </header>
+    <main>
+        <section>
+            <h2>Texto Aleatorio</h2>
+            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam eget justo vel libero tincidunt cursus. Sed euismod, urna nec bibendum venenatis, justo odio lacinia nunc, vel tincidunt justo purus vel odio.</p>
+            <p>Phasellus euismod, tortor nec tincidunt tincidunt, metus justo volutpat justo, eu tincidunt nulla elit nec sapien. Fusce euismod, justo in tincidunt malesuada, odio felis dignissim justo, nec tincidunt mi odio vel justo.</p>
+        </section>
+    </main>
+    <footer>
+        <p>© 2024 Mi Página Web</p>
+    </footer>
+</body>
+</html>
